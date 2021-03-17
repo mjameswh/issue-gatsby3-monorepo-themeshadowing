@@ -1,0 +1,12 @@
+{
+  "name": "site-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-theme-example": "^1.0.0",
+    "gatsby": "^2.23.12",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}

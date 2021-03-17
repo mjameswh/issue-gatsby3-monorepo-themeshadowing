@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-theme-shadowing-example",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "develop": "yarn workspace site-example gatsby develop"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
